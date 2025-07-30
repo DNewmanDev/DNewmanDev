@@ -2,7 +2,7 @@
 
 The following are a collection of projects demonstrating proficiency across multiple programming languages and technologies, displaying skills such as API development, server creation, performance optimization, testing, game development, and concurrent processing.
 
-## 🚀 Featured Projects
+## 🧪 Featured Projects 🧠
 
 ### Backend & Web Development
 - **[chirpy](./chirpy/)** - HTTP server with PostgreSQL backend, featuring user management and metrics tracking *
