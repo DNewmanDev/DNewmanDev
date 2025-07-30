@@ -5,7 +5,7 @@ The following are a collection of projects demonstrating proficiency across mult
 ## 🧪 Featured Projects 🧠
 
 ### Backend & Web Development
-- **[chirpy](./chirpy/)** - HTTP server with PostgreSQL backend, featuring user management and metrics tracking *
+- **[chirpy](./chirpy/)** - HTTP server with PostgreSQL backend, featuring user management and metrics tracking 
 - **[gator](./gator/)** - RSS feed aggregator CLI with PostgreSQL database and concurrent feed processing
 
 ### Command Line Tools
@@ -17,4 +17,4 @@ The following are a collection of projects demonstrating proficiency across mult
 ### Algorithm & Problem Solving
 - **[mazesolver](./mazesolver/)** - Maze generation and pathfinding algorithms with visualization
 
-'*' denotates work in progress
+
