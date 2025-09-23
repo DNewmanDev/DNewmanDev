@@ -2,6 +2,7 @@
 
 The following are a collection of projects demonstrating proficiency across multiple programming languages and technologies, displaying skills such as API development, server creation, performance optimization, testing, game development, and concurrent processing.
 
+
 ## 🧪 Featured Projects 🧠
 
 ### Backend & Web Development
@@ -17,4 +18,6 @@ The following are a collection of projects demonstrating proficiency across mult
 ### Algorithm & Problem Solving
 - **[mazesolver](./mazesolver/)** - Maze generation and pathfinding algorithms with visualization
 
-
+### Languages Showcased ###
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
