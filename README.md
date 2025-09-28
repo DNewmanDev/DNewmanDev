@@ -10,13 +10,13 @@ The following are a collection of projects demonstrating proficiency across mult
 - **[Gator](https://github.com/dnewmandev/gator)** - RSS feed aggregator CLI with PostgreSQL database and concurrent feed processing 🐊
 
 ### Algorithm & Problem Solving
-- **[aMazing](httos://github.com/dnewmandev/amazing)** - Maze generation and pathfinding algorithms with visualization 📐
+- **[aMazing](https://github.com/dnewmandev/amazing)** - Maze generation and pathfinding algorithms with visualization 📐
 
 ### Command Line Tools
 - **[Pokedex](https://github.com/dnewmandev/pokedex)** - Interactive Pokemon CLI with HTTP API integration and intelligent caching ⛰️
 
 ### Game Development
-- **[Asteroids](httos://github.com/dnewmandev/asteroids)** - Classic asteroids game built with Pygame, featuring object-oriented design and collision detection ☄️
+- **[Asteroids](https://github.com/dnewmandev/asteroids)** - Classic asteroids game built with Pygame, featuring object-oriented design and collision detection ☄️
 
 
 ### 📖 Languages Showcased 🗣️ ###
