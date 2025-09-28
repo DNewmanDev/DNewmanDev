@@ -13,7 +13,7 @@ The following are a collection of projects demonstrating proficiency across mult
 - **[aMazing](httos://github.com/dnewmandev/amazing)** - Maze generation and pathfinding algorithms with visualization 📐
 
 ### Command Line Tools
-- **[Pokedex](www.github.com/dnewmandev/pokedex)** - Interactive Pokemon CLI with HTTP API integration and intelligent caching ⛰️
+- **[Pokedex](https://github.com/dnewmandev/pokedex)** - Interactive Pokemon CLI with HTTP API integration and intelligent caching ⛰️
 
 ### Game Development
 - **[Asteroids](httos://github.com/dnewmandev/asteroids)** - Classic asteroids game built with Pygame, featuring object-oriented design and collision detection ☄️
