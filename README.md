@@ -6,7 +6,7 @@ The following are a collection of projects demonstrating proficiency across mult
 ## 🧪 Featured Projects 🧠
 
 ### Backend & Web Development
-- **[Chirpy](/chirpy)** - HTTP server with PostgreSQL backend, featuring user management and metrics tracking (twitter clone) 🕊️
+- **[Chirpy](chirpy)** - HTTP server with PostgreSQL backend, featuring user management and metrics tracking (twitter clone) 🕊️
 - **[Gator](www.github.com/dnewmandev/gator)** - RSS feed aggregator CLI with PostgreSQL database and concurrent feed processing 🐊
 
 ### Algorithm & Problem Solving
