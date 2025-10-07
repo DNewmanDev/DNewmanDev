@@ -7,10 +7,10 @@ The following are a collection of projects demonstrating proficiency across mult
 
 ### Backend & Web Development
 - **[Chirpy](https://github.com/DNewmanDev/Chirpy)** - Social Media application served on HTTP with PostgreSQL backend, featuring user management and metrics tracking  🕊️
-- **[Gator](https://github.com/dnewmandev/gator)** - RSS feed aggregator CLI with PostgreSQL database and concurrent feed processing 🐊
+- **[Gator](https://github.com/dnewmandev/gator)** - RSS feed aggregator CLI with PostgreSQL database. Features concurrent feed processing, user management, and complex table relationships 🐊
 
 ### Algorithm & Problem Solving
-- **[aMazing](https://github.com/dnewmandev/amazing)** - Maze generation and pathfinding algorithms with visualization 📐
+- **[aMazing](https://github.com/dnewmandev/amazing)** - Algorithmic maze and solution generator with custom graphics engine for visualization 📐
 
 ### Command Line Tools
 - **[Pokedex](https://github.com/dnewmandev/pokedex)** - Interactive Pokemon CLI with HTTP API integration and intelligent caching ⛰️
